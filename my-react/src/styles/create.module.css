@@ -1,0 +1,17 @@
+.btn {
+    background-color: red;
+}
+
+.item {
+    display: flex;
+    flex-direction: column;
+    max-width: 300px;
+}
+
+.input {
+    margin-bottom: 20px;
+}
+
+.input:last-child {
+    margin-bottom: 0;
+}

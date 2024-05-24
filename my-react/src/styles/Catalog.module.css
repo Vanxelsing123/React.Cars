@@ -1,0 +1,15 @@
+.car {
+    margin-top: 30px;
+}
+
+.imge {
+    background-repeat: no-repeat;
+    width: 50%;
+    background-size: cover;
+    background-position: center;
+    height: 413px;
+}
+
+.btn {
+    background-color: red;
+}
